@@ -50,6 +50,9 @@
 </a>
 <a href="https://www.kaggle.com/https://www.kaggle.com/yagodkin" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a> 
+<a href="https://t.me/imfli" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" width="30" height="30" />
 </a>  
 </div>  
   
