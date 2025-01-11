@@ -43,7 +43,7 @@
 
 <br/>  
 
-## You can connect with me with clicking this --> <a href="https://t.me/imfli" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="25" height="25" style="margin-left: 10px;"/></a>
+## Feel free to connect with me by clicking this --> <a href="https://t.me/imfli" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="25" height="25" style="margin-left: 10px;"/></a>
 
 <!-- <div align="center"> -->
 <!-- </div> -->
