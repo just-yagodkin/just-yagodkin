@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&lines=Wake+up,+Neo...)](https://git.io/typing-svg)
 
-## My Skill Set  
+## Lil' BIO:
+- I'm **Max**, and I love doing some funny and smart stuff with computers.
+- I live in **Saint Petersburg**.
+- I'm crazy about knocking on my keyboard.
+- I'd love to collaborate with someone 👉👈
+
+## I Have experience in:
 <table><tr><td valign="top" width="33%">
-
-
 
 ### ML  
 <div align="center">  
@@ -18,8 +22,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -29,8 +31,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Had fun with
 <div align="center">  
@@ -43,20 +43,17 @@
 
 <br/>  
 
+## You can connect with me with clicking this --> <a href="https://t.me/imfli" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="25" height="25" style="margin-left: 10px;"/></a>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/just-yagodkin" target="_blank">
+<!-- <div align="center"> -->
+<!-- </div> -->
+<!-- <a href="https://github.com/just-yagodkin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/yagodkin" target="_blank">
+</a> -->
+<!-- <a href="https://www.kaggle.com/yagodkin" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a> 
-<a href="https://t.me/imfli" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" width="30" height="30" />
-</a>  
-</div>  
-  
+</a>  -->
+
 
 <br/>  
 
