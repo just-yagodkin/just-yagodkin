@@ -12,6 +12,7 @@
 ### ML  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50" /></a>
 <a href="https://catboost.ai/" target="_blank"><img style="margin: 10px" src="https://storage.yandexcloud.net/ds-ods/files/media/hub/icon/2bdd216d7030/b8b5d0d498fe_CatBoost_icon_white_back_icon.svg" alt="CatBoost" height="50" /></a>
 <!-- <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>   -->
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
